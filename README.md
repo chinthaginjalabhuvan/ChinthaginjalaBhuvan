@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Chinthaginjala Bhuvan**, a recent Computer Science graduate with a passion for backend development, cloud technologies, and scalable systems. I specialize in technologies like **Linux**,**C++** ,**Python** **MERN stack**, **PowerBI** and  **Databases**. I enjoy working on challenging projects and optimizing system performance.
+I'm **Chinthaginjala Bhuvan**, a recent Computer Science graduate with a passion for backend development, cloud technologies, and scalable systems. I specialize in technologies like **Linux**,**C++** ,**Python** ,**MERN stack**, **PowerBI** and  **Databases**. I enjoy working on challenging projects and optimizing system performance.
 
 Here’s a little about me:
 
@@ -13,6 +13,11 @@ Here’s a little about me:
 Feel free to check out my repositories for projects related to **MERN**,**Power BI** and  **PERN** stacks, as well as some banking system architecture work.
 
 - 📫 How to reach me **chinthaginjalabhuvan@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhuvan19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhuvan19/" height="30" width="40" /></a>
+
 
 ## SKILLS
 
