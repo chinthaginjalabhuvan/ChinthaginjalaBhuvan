@@ -15,17 +15,6 @@ Feel free to check out my repositories for projects related to **MERN**,**Power 
 - 📫 How to reach me **chinthaginjalabhuvan@gmail.com**
 
 
-
-## SKILLS
-
-- **Frontend** – JavaScript, React JS, Bootstrap, HTML & CSS
-- **Backend** – Node JS, Express JS, JavaScript
-- **Database** – MySQL, PostgreSQL, MongoDB, DBMS
-- **Programming Languages** – Python, C/C++, DSA
-- **Others** – Git, Manual Testing, Cloud Computing
-- **Data Analytics** – Power BI
-- **Containerization & CI/CD**(Learning) – Docker, DevOps, Kubernetes, Jenkins
-
   <h3 align="left">Languages and Tools:</h3>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -39,6 +28,21 @@ Feel free to check out my repositories for projects related to **MERN**,**Power 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a>
+
+
+
+## SKILLS
+
+- **Frontend** – JavaScript, React JS, Bootstrap, HTML & CSS
+- **Backend** – Node JS, Express JS, JavaScript
+- **Database** – MySQL, PostgreSQL, MongoDB, DBMS
+- **Programming Languages** – Python, C/C++, DSA
+- **Others** – Git, Manual Testing, Cloud Computing
+- **Data Analytics** – Power BI
+- **Containerization & CI/CD**(Learning) – Docker, DevOps, Kubernetes, Jenkins
+
+
+
   
 
 
