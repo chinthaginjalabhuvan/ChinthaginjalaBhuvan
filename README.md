@@ -10,7 +10,7 @@ Here’s a little about me:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhuvan19) | [GitHub](https://github.com/ChinthaginjalaBhuvan)
 - ⚡ Fun fact: I’ve built scalable systems and love optimizing backend performance!
 
-Feel free to check out my repositories for projects related to **MERN**,**Power BI** and  **PERN** stacks, as well as some banking system architecture work.
+Feel free to check out my repositories for projects related to **MERN**,**Power BI** and  **PERN** stacks.
 
 - 📫 How to reach me **chinthaginjalabhuvan@gmail.com**
 
