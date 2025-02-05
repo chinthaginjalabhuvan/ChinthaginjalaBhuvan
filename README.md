@@ -85,7 +85,7 @@ Feel free to check out my repositories for projects related to **MERN**,**Power 
 - **Frontend** – JavaScript, React JS, Bootstrap, HTML & CSS
 - **Backend** – Node JS, Express JS, JavaScript
 - **Database** – MySQL, PostgreSQL, MongoDB, DBMS
-- **Programming Languages** – Python, C/C++, DSA
+- **Programming Languages** – Python,Java, C/C++, DSA
 - **Others** – Git, Manual Testing, Cloud Computing
 - **Data Analytics** – Power BI
 - **Containerization & CI/CD**(Learning) – Docker, DevOps, Kubernetes, Jenkins
